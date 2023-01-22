@@ -1,0 +1,14 @@
+C:\Users\emred\OneDrive\Masaüstü\asilAjanda\Bildirim\bin\Debug\Bildirim.exe.config
+C:\Users\emred\OneDrive\Masaüstü\asilAjanda\Bildirim\bin\Debug\Bildirim.exe
+C:\Users\emred\OneDrive\Masaüstü\asilAjanda\Bildirim\bin\Debug\Bildirim.pdb
+C:\Users\emred\OneDrive\Masaüstü\asilAjanda\Bildirim\obj\Debug\Bildirim.Bildirim.resources
+C:\Users\emred\OneDrive\Masaüstü\asilAjanda\Bildirim\obj\Debug\Bildirim.Properties.Resources.resources
+C:\Users\emred\OneDrive\Masaüstü\asilAjanda\Bildirim\obj\Debug\Bildirim.csproj.GenerateResource.cache
+C:\Users\emred\OneDrive\Masaüstü\asilAjanda\Bildirim\obj\Debug\Bildirim.csproj.CoreCompileInputs.cache
+C:\Users\emred\OneDrive\Masaüstü\asilAjanda\Bildirim\obj\Debug\Bildirim.exe
+C:\Users\emred\OneDrive\Masaüstü\asilAjanda\Bildirim\obj\Debug\Bildirim.pdb
+C:\Users\emred\OneDrive\Masaüstü\asilAjanda\Bildirim\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\emred\OneDrive\Masaüstü\asilAjanda\Bildirim\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\emred\OneDrive\Masaüstü\asilAjanda\Bildirim\bin\Debug\System.ValueTuple.dll
+C:\Users\emred\OneDrive\Masaüstü\asilAjanda\Bildirim\obj\Debug\Bildirim.csproj.AssemblyReference.cache
+C:\Users\emred\OneDrive\Masaüstü\asilAjanda\Bildirim\obj\Debug\Bildirim.csproj.CopyComplete

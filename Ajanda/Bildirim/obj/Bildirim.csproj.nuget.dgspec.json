@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\emred\\OneDrive\\Masaüstü\\asilAjandav1.1.0\\asilAjanda\\asilAjanda\\Bildirim\\Bildirim.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\emred\\OneDrive\\Masaüstü\\asilAjandav1.1.0\\asilAjanda\\asilAjanda\\Bildirim\\Bildirim.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\emred\\OneDrive\\Masaüstü\\asilAjandav1.1.0\\asilAjanda\\asilAjanda\\Bildirim\\Bildirim.csproj",
+        "projectName": "Bildirim",
+        "projectPath": "C:\\Users\\emred\\OneDrive\\Masaüstü\\asilAjandav1.1.0\\asilAjanda\\asilAjanda\\Bildirim\\Bildirim.csproj",
+        "packagesPath": "C:\\Users\\emred\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emred\\OneDrive\\Masaüstü\\asilAjandav1.1.0\\asilAjanda\\asilAjanda\\Bildirim\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\emred\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.Toolkit.Uwp.Notifications": {
+              "target": "Package",
+              "version": "[7.1.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,308 @@
+01.12.2022 - 22:12 - Giriş Yapıldı, Kullanıcı ID : 1
+01.12.2022 - 22:12 - Düzenlendi, Görev ID : 2076
+01.12.2022 - 22:14 - Giriş Yapıldı, Kullanıcı ID : 1
+01.12.2022 - 22:15 - Hatırlatıcı silindi, Görev ID: 2076
+01.12.2022 - 22:18 - Giriş Yapıldı, Kullanıcı ID : 1
+01.12.2022 - 22:18 - Yeni Hatırlatıcı oluşturuldu, Başlık: Hatırlatıcı 5
+23.12.2022 - 21:06 - Giriş Yapıldı, Kullanıcı ID : 1
+23.12.2022 - 21:07 - Yeni Hatırlatıcı oluşturuldu, Başlık: Hatırlatıcı 1
+25.12.2022 - 21:05 - Giriş Yapıldı, Kullanıcı ID : 1
+25.12.2022 - 21:06 - Yeni Hatırlatıcı oluşturuldu, Başlık: Hatırlatıcı 1
+25.12.2022 - 21:07 - Giriş Yapıldı, Kullanıcı ID : 1
+25.12.2022 - 21:08 - Yeni Hatırlatıcı oluşturuldu, Başlık: wfwr
+25.12.2022 - 21:09 - Düzenlendi, Görev ID : 2079
+25.12.2022 - 21:09 - Hatırlatıcı silindi, Görev ID: 2080
+25.12.2022 - 21:15 - Giriş Yapıldı, Kullanıcı ID : 1
+25.12.2022 - 21:15 - Giriş Yapıldı, Kullanıcı ID : 1
+25.12.2022 - 21:33 - Giriş Yapıldı, Kullanıcı ID : 1
+25.12.2022 - 21:34 - Giriş Yapıldı, Kullanıcı ID : 1
+25.12.2022 - 21:37 - Giriş Yapıldı, Kullanıcı ID : 1
+25.12.2022 - 21:37 - Hatırlatıcı Tamamlandı, Görev ID: 2079
+25.12.2022 - 21:38 - Giriş Yapıldı, Kullanıcı ID : 1
+25.12.2022 - 21:45 - Giriş Yapıldı, Kullanıcı ID : 1
+25.12.2022 - 21:45 - Hatırlatıcı Tamamlandı, Görev ID: 2079
+25.12.2022 - 21:50 - Giriş Yapıldı, Kullanıcı ID : 1
+25.12.2022 - 21:50 - Hatırlatıcı Tamamlandı, Görev ID: 2079
+25.12.2022 - 21:50 - Giriş Yapıldı, Kullanıcı ID : 1
+25.12.2022 - 21:50 - Hatırlatıcı Tamamlandı, Görev ID: 2079
+25.12.2022 - 21:50 - Giriş Yapıldı, Kullanıcı ID : 1
+25.12.2022 - 22:06 - Giriş Yapıldı, Kullanıcı ID : 1
+25.12.2022 - 22:09 - Giriş Yapıldı, Kullanıcı ID : 1
+25.12.2022 - 22:09 - Giriş Yapıldı, Kullanıcı ID : 1
+25.12.2022 - 22:09 - Giriş Yapıldı, Kullanıcı ID : 1
+25.12.2022 - 22:10 - Giriş Yapıldı, Kullanıcı ID : 1
+25.12.2022 - 22:14 - Giriş Yapıldı, Kullanıcı ID : 1
+25.12.2022 - 22:14 - Hatırlatıcı silindi, Görev ID: 2079
+25.12.2022 - 22:14 - Giriş Yapıldı, Kullanıcı ID : 1
+25.12.2022 - 22:14 - Giriş Yapıldı, Kullanıcı ID : 1
+25.12.2022 - 22:15 - Yeni Hatırlatıcı oluşturuldu, Başlık: wrfrw
+25.12.2022 - 22:15 - Hatırlatıcı silindi, Görev ID: 2081
+25.12.2022 - 22:16 - Yeni Hatırlatıcı oluşturuldu, Başlık: wrff31r
+25.12.2022 - 22:29 - Giriş Yapıldı, Kullanıcı ID : 1
+25.12.2022 - 22:29 - Yeni Hatırlatıcı oluşturuldu, Başlık: Baslik
+25.12.2022 - 22:29 - Giriş Yapıldı, Kullanıcı ID : 1
+25.12.2022 - 22:30 - Düzenlendi, Görev ID : 2083
+25.12.2022 - 22:30 - Yeni Hatırlatıcı oluşturuldu, Başlık: eqr
+25.12.2022 - 22:30 - Hatırlatıcı silindi, Görev ID: 2084
+25.12.2022 - 22:34 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 11:25 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 11:41 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:06 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:07 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:09 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:10 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:11 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:11 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:11 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:12 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:12 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:12 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:16 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:16 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:32 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:33 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:35 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:35 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:42 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:43 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:45 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:47 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:51 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:52 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:53 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:54 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:55 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:57 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:58 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:58 - Yeni Hatırlatıcı oluşturuldu, Başlık: eqd
+26.12.2022 - 12:58 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 12:59 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 13:01 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 13:02 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 13:02 - Yeni Hatırlatıcı oluşturuldu, Başlık: fad
+26.12.2022 - 16:16 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 16:17 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 16:29 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 16:31 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 16:34 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 16:34 - Giriş Yapıldı, Kullanıcı ID : 2
+26.12.2022 - 16:45 - Giriş Yapıldı, Kullanıcı ID : 2
+26.12.2022 - 16:47 - Giriş Yapıldı, Kullanıcı ID : 2
+26.12.2022 - 16:52 - Giriş Yapıldı, Kullanıcı ID : 2
+26.12.2022 - 16:55 - Giriş Yapıldı, Kullanıcı ID : 2
+26.12.2022 - 16:55 - Giriş Yapıldı, Kullanıcı ID : 2
+26.12.2022 - 16:57 - Giriş Yapıldı, Kullanıcı ID : 2
+26.12.2022 - 17:00 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 17:01 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 17:02 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 17:02 - Giriş Yapıldı, Kullanıcı ID : 2
+26.12.2022 - 17:05 - Giriş Yapıldı, Kullanıcı ID : 2
+26.12.2022 - 17:06 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 17:07 - Giriş Yapıldı, Kullanıcı ID : 2
+26.12.2022 - 17:07 - Giriş Yapıldı, Kullanıcı ID : 2
+26.12.2022 - 17:08 - Giriş Yapıldı, Kullanıcı ID : 2
+26.12.2022 - 17:08 - Giriş Yapıldı, Kullanıcı ID : 2
+26.12.2022 - 17:09 - Giriş Yapıldı, Kullanıcı ID : 1
+26.12.2022 - 17:10 - Giriş Yapıldı, Kullanıcı ID : 2
+26.12.2022 - 17:10 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 16:28 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 16:29 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 16:30 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 16:31 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 16:32 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 16:33 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 16:33 - Düzenlendi, Görev ID : 2086
+27.12.2022 - 16:37 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 16:37 - Yeni Hatırlatıcı oluşturuldu, Başlık: rqgfeqg
+27.12.2022 - 16:38 - Yeni Hatırlatıcı oluşturuldu, Başlık: ewtgh
+27.12.2022 - 16:40 - Giriş Yapıldı, Kullanıcı ID : 2
+27.12.2022 - 16:42 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 16:49 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 16:50 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 21:41 - Hatalı giriş
+27.12.2022 - 21:41 - Hatalı giriş
+27.12.2022 - 21:41 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 21:45 - Yeni Hatırlatıcı oluşturuldu, Başlık: aaaaaaa
+27.12.2022 - 21:47 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 21:47 - Yeni Hatırlatıcı oluşturuldu, Başlık: rrrrr
+27.12.2022 - 21:50 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 21:50 - Yeni Hatırlatıcı oluşturuldu, Başlık: vvv
+27.12.2022 - 21:51 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 21:51 - Yeni Hatırlatıcı oluşturuldu, Başlık: wrf
+27.12.2022 - 21:52 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 21:52 - Yeni Hatırlatıcı oluşturuldu, Başlık: wrqf
+27.12.2022 - 21:55 - Yeni Hatırlatıcı oluşturuldu, Başlık: bb
+27.12.2022 - 21:56 - Giriş Yapıldı, Kullanıcı ID : 2
+27.12.2022 - 21:56 - Yeni Hatırlatıcı oluşturuldu, Başlık: wrtwrt
+27.12.2022 - 22:02 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:09 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:12 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:12 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:14 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:14 - Hatırlatıcı silindi, Görev ID: 3086
+27.12.2022 - 22:15 - Giriş Yapıldı, Kullanıcı ID : 2
+27.12.2022 - 22:16 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:17 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:18 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:18 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:20 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:22 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:23 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:24 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:25 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:27 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:33 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:33 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:35 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:35 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:35 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:38 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:38 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:39 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:39 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:40 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:41 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:42 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:43 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:46 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:51 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:52 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:52 - Yeni Hatırlatıcı oluşturuldu, Başlık: eee
+27.12.2022 - 22:53 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:54 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:55 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:55 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:56 - Giriş Yapıldı, Kullanıcı ID : 1
+27.12.2022 - 22:57 - Giriş Yapıldı, Kullanıcı ID : 1
+28.12.2022 - 10:24 - Giriş Yapıldı, Kullanıcı ID : 1
+28.12.2022 - 10:25 - Düzenlendi, Görev ID : 4090
+28.12.2022 - 10:26 - Hatırlatıcı Tamamlandı, id: 4090
+29.12.2022 - 10:15 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 10:17 - Düzenlendi, Görev ID : 4091
+29.12.2022 - 10:17 - Düzenlendi, Görev ID : 4091
+29.12.2022 - 10:19 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 10:19 - Düzenlendi, Görev ID : 4093
+29.12.2022 - 11:08 - Giriş Yapıldı, Kullanıcı ID : 1004
+29.12.2022 - 11:10 - Giriş Yapıldı, Kullanıcı ID : 1005
+29.12.2022 - 11:30 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 11:30 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 11:32 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 11:33 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 11:34 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 11:34 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 11:35 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 11:35 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 11:38 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 11:39 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 11:40 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 11:41 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 11:42 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 11:42 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 11:42 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 11:43 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 11:44 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 11:57 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 11:57 - Giriş Yapıldı, Kullanıcı ID : 2
+29.12.2022 - 11:58 - Giriş Yapıldı, Kullanıcı ID : 1005
+29.12.2022 - 11:58 - Giriş Yapıldı, Kullanıcı ID : 1004
+29.12.2022 - 11:59 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 11:59 - Giriş Yapıldı, Kullanıcı ID : 2
+29.12.2022 - 11:59 - Giriş Yapıldı, Kullanıcı ID : 1004
+29.12.2022 - 11:59 - Giriş Yapıldı, Kullanıcı ID : 1005
+29.12.2022 - 11:59 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:01 - Giriş Yapıldı, Kullanıcı ID : 2
+29.12.2022 - 12:02 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:12 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:12 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:14 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:15 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:16 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:17 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:17 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:18 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:19 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:19 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:20 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:21 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:41 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:43 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:44 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:47 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:48 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:50 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:50 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:51 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:52 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:52 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:54 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:54 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:55 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:55 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 12:56 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 13:02 - Hatalı giriş
+29.12.2022 - 13:02 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 13:02 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 21:42 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 21:45 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 21:45 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 22:03 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 22:04 - Yeni Hatırlatıcı oluşturuldu, Başlık: htwe
+29.12.2022 - 22:04 - Yeni Hatırlatıcı oluşturuldu, Başlık: wteh
+29.12.2022 - 22:04 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 22:05 - Giriş Yapıldı, Kullanıcı ID : 2
+29.12.2022 - 22:05 - Yeni Hatırlatıcı oluşturuldu, Başlık: jfjgj
+29.12.2022 - 22:05 - Giriş Yapıldı, Kullanıcı ID : 1004
+29.12.2022 - 22:06 - Yeni Hatırlatıcı oluşturuldu, Başlık: jgjh
+29.12.2022 - 22:06 - Giriş Yapıldı, Kullanıcı ID : 2
+29.12.2022 - 22:06 - Hatırlatıcı silindi, Görev ID: 4097
+29.12.2022 - 22:16 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 22:17 - Giriş Yapıldı, Kullanıcı ID : 2
+29.12.2022 - 22:17 - Giriş Yapıldı, Kullanıcı ID : 1004
+29.12.2022 - 22:18 - Yeni Hatırlatıcı oluşturuldu, Başlık: dw
+29.12.2022 - 22:18 - Giriş Yapıldı, Kullanıcı ID : 2
+29.12.2022 - 22:18 - Giriş Yapıldı, Kullanıcı ID : 2
+29.12.2022 - 22:18 - Düzenlendi, Görev ID : 4098
+29.12.2022 - 22:19 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 22:19 - Giriş Yapıldı, Kullanıcı ID : 2
+29.12.2022 - 22:19 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 22:20 - Giriş Yapıldı, Kullanıcı ID : 2
+29.12.2022 - 22:21 - Giriş Yapıldı, Kullanıcı ID : 2
+29.12.2022 - 22:21 - Hatırlatıcı Tamamlandı, id: 4094
+29.12.2022 - 22:22 - Hatalı giriş
+29.12.2022 - 22:22 - Hatalı giriş
+29.12.2022 - 22:22 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 22:26 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 22:30 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 22:31 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 22:32 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 22:35 - Giriş Yapıldı, Kullanıcı ID : 1
+29.12.2022 - 22:39 - Giriş Yapıldı, Kullanıcı ID : 1
+31.12.2022 - 12:26 - Giriş Yapıldı, Kullanıcı ID : 1
+31.12.2022 - 12:26 - Yeni Hatırlatıcı oluşturuldu, Başlık: Hatirlatıcı 1
+31.12.2022 - 12:26 - Yeni Hatırlatıcı oluşturuldu, Başlık: Görev 1
+31.12.2022 - 12:27 - Yeni Hatırlatıcı oluşturuldu, Başlık: Etkinlik
+31.12.2022 - 12:58 - Giriş Yapıldı, Kullanıcı ID : 1
+02.01.2023 - 22:50 - Giriş Yapıldı, Kullanıcı ID : 1
+02.01.2023 - 22:50 - Yeni Hatırlatıcı oluşturuldu, Başlık: Hatırlatıcı 1
+02.01.2023 - 22:50 - Düzenlendi, Görev ID : 5094
+2.1.2023 - 22:50 - Hatırlatıcı Tamamlandı, id: 5094
+02.01.2023 - 22:51 - Yeni Hatırlatıcı oluşturuldu, Başlık: Görev 1
+2.1.2023 - 22:51 - Hatırlatıcı silindi, Görev ID: 5095
+02.01.2023 - 22:52 - Yeni Hatırlatıcı oluşturuldu, Başlık: Görev1 
+02.01.2023 - 22:52 - Hatalı giriş
+02.01.2023 - 22:52 - Giriş Yapıldı, Kullanıcı ID : 2
+02.01.2023 - 22:52 - Giriş Yapıldı, Kullanıcı ID : 1
+02.01.2023 - 22:52 - Yeni Hatırlatıcı oluşturuldu, Başlık: Görev 2
+2.1.2023 - 22:53 - Hatırlatıcı silindi, Görev ID: 5096
+2.1.2023 - 22:53 - Hatırlatıcı silindi, Görev ID: 5097
+02.01.2023 - 22:53 - Giriş Yapıldı, Kullanıcı ID : 1
+02.01.2023 - 22:53 - Yeni Hatırlatıcı oluşturuldu, Başlık: hatirlatici 3
+02.01.2023 - 22:53 - Giriş Yapıldı, Kullanıcı ID : 1005
+03.01.2023 - 08:55 - Giriş Yapıldı, Kullanıcı ID : 1
+03.01.2023 - 09:00 - Yeni Hatırlatıcı oluşturuldu, Başlık: Hatırlatıcı 1
+03.01.2023 - 09:06 - Giriş Yapıldı, Kullanıcı ID : 1
+03.01.2023 - 09:24 - Giriş Yapıldı, Kullanıcı ID : 1
+03.01.2023 - 09:25 - Yeni Hatırlatıcı oluşturuldu, Başlık: Görev 1
+03.01.2023 - 09:25 - Giriş Yapıldı, Kullanıcı ID : 1004
+03.01.2023 - 09:25 - Giriş Yapıldı, Kullanıcı ID : 1
+03.01.2023 - 09:47 - Giriş Yapıldı, Kullanıcı ID : 1
